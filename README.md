@@ -16,7 +16,7 @@ prototyping things and the development of IoT projects.</p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=piertv21&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piertv21&theme=tokyonight&langs_count=3&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piertv21&theme=tokyonight&langs_count=5&layout=compact&hide=html,css,xslt,makefile,hack" />
   </a>
 </div>
 
