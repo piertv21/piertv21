@@ -6,7 +6,7 @@ prototyping things and the development of IoT projects.</p>
 ## ⚙️ Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,java,python,html,js,css,php,github,git,androidstudio,bash,figma,kotlin,nodejs,npm,postgres,postman,prisma,react,ts" />
+    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,java,python,html,js,css,php,github,git,androidstudio,bash,figma,kotlin,nodejs,npm,postgres,postman,prisma,docker,react,ts" />
   </a>
 </p>
 
