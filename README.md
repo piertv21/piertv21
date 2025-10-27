@@ -1,24 +1,23 @@
 ## 👋🏻 Hi! I'm Pier
-<p>I'm an IT enthusiast & student of Engineering and Computer Science at the University of Bologna with
-multiple interests, such as programming but also everything related to process automation,
-prototyping things and the development of IoT projects.</p>
+🎓 I'm an **Engineering and Computer Science student** at the **University of Bologna**, passionate about **technology**, **process automation**, and **IoT development**.  
+💡 I love building things — from small prototypes to distributed systems — and exploring how software can make the world a bit more efficient.
 
 ## ⚙️ Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,java,python,html,js,css,php,github,git,androidstudio,bash,figma,kotlin,nodejs,npm,postgres,postman,prisma,docker,react,ts,scala" />
+    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,java,python,html,js,ts,react,css,php,nodejs,npm,postgres,prisma,postman,docker,github,git,androidstudio,bash,figma,kotlin,scala&perline=10" />
   </a>
 </p>
 
 ## 🏆 My GitHub stats:
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=piertv21&count_private=true&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piertv21&theme=tokyonight&langs_count=5&layout=compact&hide=html,css,xslt,makefile,hack" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piertv21&theme=tokyonight&langs_count=6&layout=compact&hide=html,css,xslt,makefile,hack&hide_border=true&border_radius=10" height="165" />
+</p>
+
+#
+<p align="center">
+  💬 “AI lays the foundation, but only humans craft perfection.”
+</p>
 
 <!--
 **piertv21/piertv21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
