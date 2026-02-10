@@ -9,11 +9,6 @@
   </a>
 </p>
 
-## 🏆 My GitHub stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piertv21&theme=tokyonight&langs_count=6&layout=compact&hide=html,css,xslt,makefile,hack&hide_border=true&border_radius=10" height="165" />
-</p>
-
 #
 <p align="center">
   💬 “AI lays the foundation, but only humans craft perfection.”
